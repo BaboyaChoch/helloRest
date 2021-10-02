@@ -1,2 +1,2 @@
 # helloRest
-demoing first restful api using java spring 
+Basic demo of a RESTful API in Java Spring 
