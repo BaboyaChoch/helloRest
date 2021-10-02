@@ -1,2 +1,2 @@
 # helloRest
-demoing first restful via using java spring 
+demoing first restful api using java spring 
